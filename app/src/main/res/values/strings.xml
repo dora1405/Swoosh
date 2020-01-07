@@ -11,4 +11,8 @@
     <string name="on_going_all_out">ON GOING ALL OUT</string>
     <string name="find_a_team_and_go_conquer_the_world">Find a Team and go conquer the World</string>
     <string name="get_started">Get Started</string>
+    <string name="i_am_a">I am a</string>
+    <string name="beginner">beginner</string>
+    <string name="advance">advance</string>
+    <string name="finish">finish</string>
 </resources>
