@@ -1,8 +1,9 @@
 package com.example.swoosh
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.swoosh.Controller.BaseActivity
+import com.example.swoosh.Controller.LeagueActivity
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : BaseActivity() {
